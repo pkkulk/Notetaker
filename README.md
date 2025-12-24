@@ -1,4 +1,4 @@
-# 🩺 Physician Notetaker – Medical NLP Pipeline
+# Physician Notetaker – Medical NLP Pipeline
 
 This project implements an **end-to-end NLP pipeline** to process a **physician–patient conversation** and extract structured medical information, patient sentiment, and clinical documentation.
 
@@ -28,7 +28,7 @@ Task 3: SOAP Note Generation (Bonus)
 
 ---
 
-## ✅ 1. Medical NLP Summarization
+## 1. Medical NLP Summarization
 
 ### Task
 
@@ -83,7 +83,7 @@ This mirrors real-world healthcare documentation standards.
 
 ---
 
-## ✅ 2. Sentiment & Intent Analysis
+##  2. Sentiment & Intent Analysis
 
 ### Task
 
@@ -133,7 +133,7 @@ Sentiment analysis is applied **only to patient utterances**, not the full conve
 
 ---
 
-## ✅ 3. SOAP Note Generation (Bonus)
+## 3. SOAP Note Generation (Bonus)
 
 ### Task
 
