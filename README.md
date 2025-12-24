@@ -17,10 +17,9 @@ This project is implemented using **Google Colab**.
 ### Option 2: Run Locally
 1. Ensure Python 3.9+ is installed
 2. Install dependencies:
-   ``bash
+   ```bash
    pip install spacy transformers torch scikit-learn
-   python -m spacy download en_core_web_sm
-
+   python -m spacy download en_core_web_sm 
 3. Open and run notetaker.ipynb using Jupyter Notebook or Jupyter Lab
    
 
