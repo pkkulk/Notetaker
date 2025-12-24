@@ -6,7 +6,7 @@ The solution is designed to be **practical, interpretable, and clinically safe**
 
 ---
 
-## 📌 Input
+##  Input
 
 A transcribed **doctor–patient conversation** describing a motor vehicle accident, subsequent symptoms, treatment, recovery progress, and physician assessment.
 
