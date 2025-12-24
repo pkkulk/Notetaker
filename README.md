@@ -5,6 +5,21 @@ This project implements an **end-to-end NLP pipeline** to process a **physicianâ
 The solution is designed to be **practical, interpretable, and clinically safe**, prioritizing deterministic logic over speculative AI behavior.
 
 ---
+## ðŸ”§ Setup & Execution Instructions
+
+This project is implemented using **Google Colab**.
+
+### Option 1: Run in Google Colab (Recommended)
+1. Open the notebook in Google Colab
+2. Run all cells from top to bottom
+3. Required libraries are installed automatically in the notebook
+
+### Option 2: Run Locally
+1. Ensure Python 3.9+ is installed
+2. Install dependencies:
+   ```bash
+   pip install spacy transformers torch scikit-learn
+   python -m spacy download en_core_web_sm
 
 ##  Input
 
