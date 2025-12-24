@@ -133,7 +133,7 @@ Sentiment analysis is applied **only to patient utterances**, not the full conve
 
 ---
 
-## 3. SOAP Note Generation (Bonus)
+## 3. SOAP Note Generation 
 
 ### Task
 
