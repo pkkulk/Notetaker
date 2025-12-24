@@ -21,6 +21,11 @@ This project is implemented using **Google Colab**.
    pip install spacy transformers torch scikit-learn
    python -m spacy download en_core_web_sm
 
+3 .Open and run notetaker.ipynb using Jupyter Notebook or Jupyter Lab
+
+Notes
+Outputs are not committed to GitHub to keep the notebook clean
+Please execute the notebook to reproduce results
 ##  Input
 
 A transcribed **doctor–patient conversation** describing a motor vehicle accident, subsequent symptoms, treatment, recovery progress, and physician assessment.
